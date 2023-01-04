@@ -1,7 +1,7 @@
-# The names of the people in the group (up to 3).
-    
-# The class period you are in.
-    
+# Group Name HERE!
+
+# Members
+        
 # A statement of the problem you are solving and/or a high level description of the project.
     
 # A description as to how the project will be used (describe the user interface).
