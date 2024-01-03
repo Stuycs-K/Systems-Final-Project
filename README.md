@@ -1,11 +1,12 @@
 # PROJECT NAME HERE
 
 ### GROUP NAME HERE
-Group Members
+
+Group Members Here
        
 ### Project Description:
 
-What is this project and how does it work?
+Explain what is this project.
   
 ### Instructions:
 
