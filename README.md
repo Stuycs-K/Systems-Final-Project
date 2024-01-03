@@ -1,14 +1,13 @@
-# PROJECT NAME
+# PROJECT NAME HERE
 
-## GROUP NAME
-
-## Group Members
+### GROUP NAME HERE
+Group Members
        
-# Project Description
+### Project Description:
 
 What is this project and how does it work?
   
-# Instructions on how to use
+### Instructions:
 
 How does the user install/compile/run the program.
 How does the user interact with this program?
