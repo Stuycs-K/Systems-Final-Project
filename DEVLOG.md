@@ -1,5 +1,7 @@
 # Dev Log:
 
+This document must be updated daily by EACH group member.
+
 ## Player 1
 
 ### 2024-01-02 - Brief description
